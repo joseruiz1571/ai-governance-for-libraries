@@ -2,6 +2,8 @@
 
 A practical, values-grounded AI governance kit for public libraries, free to use and adapt under CC BY 4.0.
 
+*Initial public draft, pending outside review.*
+
 ---
 
 ## What This Is
