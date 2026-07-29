@@ -25,7 +25,7 @@
 
 AI tools are already present in the library's everyday software, its subscription databases, and its public services. This Policy gives the library a clear, values-grounded structure for deciding what to do with them: protecting patron privacy and intellectual freedom, guiding staff use, and keeping a simple record of which tools are in use and on what terms. It is designed to scale to the library's size. The minimum it requires is one maintained registry and one rule: no AI tool reaches patrons or patron data without an entry.
 
-The Policy is adapted from a freely licensed (CC BY 4.0) template. It is an independent resource and not an official publication of any library association.
+The Policy is adapted from a freely licensed (CC BY 4.0) template and is consistent with the American Library Association's Guidance on the Use of Artificial Intelligence in Libraries (2026). It is an independent resource and not an official publication of any library association.
 
 ---
 

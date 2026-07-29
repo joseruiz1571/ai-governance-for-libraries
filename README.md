@@ -12,6 +12,8 @@ Public libraries hold the trust of the people they serve: what patrons read, sea
 
 This kit gives a library's board and director what they need to adopt an AI use policy, evaluate new tools, train staff, and keep a simple record of what is in use. Nothing here requires technical knowledge, and nothing costs money.
 
+The kit is consistent with the American Library Association's Guidance on the Use of Artificial Intelligence in Libraries (adopted by the ALA Council, July 2026), including its sustainability and labor values. It remains an independent resource, not an ALA publication.
+
 It is the companion to the article "From AI Literacy to AI Stewardship: A Public Library Governance Model" (Library Leadership & Management).
 
 ---
@@ -25,7 +27,7 @@ The full policy template, ready for the board to adapt and adopt. Eleven section
 The keystone. A working template for the one record every library should keep: the AI tools and features in use, who owns each, what data it touches, and on what terms. Built on the discipline libraries already know, authority control, so it does not decay into a static spreadsheet.
 
 **AI_Tool_Evaluation_Checklist.md**
-A short checklist for evaluating any new AI tool, or any vendor-added AI feature, before approval. Its output becomes a registry entry. Carries the four-question impact review.
+A short checklist for evaluating any new AI tool, or any vendor-added AI feature, before approval. Its output becomes a registry entry. Carries the four-question impact review and the stewardship-cost review covering environmental impact and labor.
 
 **AI_Quick_Reference_OnePager.md**
 A single printable page: what staff may use AI for freely, what requires approval, and what is never permitted. Post it at the desk.

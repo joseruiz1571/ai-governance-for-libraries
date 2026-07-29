@@ -18,7 +18,7 @@
 
 **Slide 6 — The three things we protect.** Patron privacy (what people read and ask is confidential, by ethics and usually by law). Intellectual freedom (a tool that ranks or filters is making access decisions). Equity (AI literacy is a public good we can help spread or accidentally hoard).
 
-**Slide 7 — The real risks, named plainly.** Patron data leaking into an open tool. A recommendation engine quietly narrowing what patrons see. AI-generated content published without review. Vendor AI switched on by default without anyone deciding.
+**Slide 7 — The real risks, named plainly.** Patron data leaking into an open tool. A recommendation engine quietly narrowing what patrons see. AI-generated content published without review. Vendor AI switched on by default without anyone deciding. Efficiency gains quietly becoming the case for cutting staff. Energy and water costs nobody weighed.
 
 **Slide 8 — What AI literacy means for patrons.** Helping the public tell a pattern machine from a knowing one, spot confident errors, protect their own privacy, and use these tools without being used by them. This is reference and instruction work. It is what we already do, applied to a new tool.
 

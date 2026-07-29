@@ -47,7 +47,15 @@ Required for any patron-facing or data-touching tool. Answer each in a sentence 
 - [ ] This tool does not filter, rank, recommend, or flag content for patrons
 - [ ] It does shape what patrons see. If so: does it narrow access, and can patrons still reach the full collection and a human? _______
 
-## 6. Vendor and contract
+## 6. Stewardship costs
+
+Two costs that never appear on the invoice. A sentence each is enough. "Unknown" is an answer, and a reason to ask the vendor.
+
+- **Environmental.** Has the vendor disclosed the energy, water, or carbon footprint of this tool? Would a smaller or task-specific tool do the same job? For hardware purchases: expected lifespan, upgrade cycle, and what happens to the equipment when it is obsolete. _______
+- **Labor, inside the library.** Whose work does this tool change, and were they consulted? Efficiency gains go to improving service and working conditions; they are not grounds for reducing staff. _______
+- **Labor, in the supply chain.** Can the vendor document the labor conditions behind the tool, including data-labeling and content-moderation work? A vendor that cannot say is telling you something. _______
+
+## 7. Vendor and contract
 
 - [ ] Privacy policy reviewed
 - [ ] Terms of service reviewed
@@ -55,7 +63,7 @@ Required for any patron-facing or data-touching tool. Answer each in a sentence 
 - [ ] Complies with state library-records confidentiality law
 - [ ] Cost and renewal terms understood
 
-## 7. Decision
+## 8. Decision
 
 - **Risk tier:** [ ] Low (internal, no patron data, light guidance) [ ] Full review (patron-facing or data-touching)
 - **Decision:** [ ] Approved [ ] Approved with conditions [ ] Declined [ ] Pilot only

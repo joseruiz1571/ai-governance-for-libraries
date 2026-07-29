@@ -51,6 +51,7 @@ Each tool gets one entry. Keep the fields plain.
 | **Service owner** | The named person accountable for this entry. Not a department. A person. |
 | **Approval status** | Approved, conditional, pilot, declined, retired. |
 | **Risk tier** | Low (internal, no patron data) or full review (patron-facing or data-touching). See impact review below. |
+| **Stewardship review** | The environmental and labor review from the evaluation checklist: complete, not applicable, or a link to the assessment. The registry records that the question was asked; the completed checklist holds the answers. |
 | **Conditions of use** | The terms the approval depends on. |
 | **Provenance of entry** | How the library learned this tool existed: which trigger, who raised it, when. This is what makes the registry auditable rather than merely current. |
 | **Review date** | When this entry is next looked at. Not optional. An entry with no review date is decaying. |
