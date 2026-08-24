@@ -34,4 +34,4 @@
 
 ---
 
-*Prepared by Jose Ruiz-Vazquez. CC BY 4.0. Version 0.1.0 draft, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
+*Prepared by Jose Ruiz-Vazquez. CC BY 4.0. Version 0.2.0 draft, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*

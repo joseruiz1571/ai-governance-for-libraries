@@ -66,7 +66,7 @@ Low-risk internal tools get the entry above and light guidance. Patron-facing or
 
 - **Accuracy.** Does the tool do what the vendor claims it does? On what evidence? Who verified it, not the vendor.
 - **Autonomy.** Does it decide or recommend? Is a person in the loop before its output reaches a patron, or after, or never?
-- **Recourse.** When the tool is wrong, can a patron or a staff member contest it and get it corrected? Through what path?
+- **Recourse.** When the tool is wrong, can a patron or a staff member learn why it decided as it did, contest it, and get it corrected? Through what path?
 - **Enforceability.** Can the library actually hold the vendor to the stated terms? Is the data handling in the contract or only in the marketing? What happens to patron data if the vendor is acquired or the service ends?
 
 A tool that cannot answer enforceability is not low-risk just because it is convenient.
@@ -92,6 +92,6 @@ It does not assess organizational readiness, write staff guidance, design public
 
 ---
 
-*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.1.0 draft, 2026.*
+*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0 draft, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*

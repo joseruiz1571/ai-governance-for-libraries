@@ -39,7 +39,7 @@ Required for any patron-facing or data-touching tool. Answer each in a sentence 
 
 - **Accuracy.** Does it do what the vendor claims, and who verified it (not the vendor)? _______
 - **Autonomy.** Does it decide or only recommend? Is a person in the loop before its output reaches a patron? _______
-- **Recourse.** When it is wrong, can a patron or staff member contest it and get it corrected? Through what path? _______
+- **Recourse.** When it is wrong, can a patron or staff member learn why it decided as it did, contest it, and get it corrected? Through what path? _______
 - **Enforceability.** Can the library hold the vendor to the stated terms? Is the data handling in the contract, or only in the marketing? What happens to patron data if the vendor is acquired or the service ends? _______
 
 ## 5. Intellectual freedom check
@@ -49,17 +49,27 @@ Required for any patron-facing or data-touching tool. Answer each in a sentence 
 
 ## 6. Stewardship costs
 
-Two costs that never appear on the invoice. A sentence each is enough. "Unknown" is an answer, and a reason to ask the vendor.
+Costs that never appear on the invoice. A sentence each is enough. "Unknown" is an answer, and a reason to ask the vendor.
 
 - **Environmental.** Has the vendor disclosed the energy, water, or carbon footprint of this tool? Would a smaller or task-specific tool do the same job? For hardware purchases: expected lifespan, upgrade cycle, and what happens to the equipment when it is obsolete. _______
 - **Labor, inside the library.** Whose work does this tool change, and were they consulted? Efficiency gains go to improving service and working conditions; they are not grounds for reducing staff. _______
 - **Labor, in the supply chain.** Can the vendor document the labor conditions behind the tool, including data-labeling and content-moderation work? A vendor that cannot say is telling you something. _______
+- **Bias and accessibility.** Has the tool itself been evaluated for bias in its data, algorithms, and outcomes — not just its outputs read critically — and does it meet recognized accessibility standards and support users across languages and literacy levels? _______
 
 ## 7. Vendor and contract
 
+The privacy items follow ALA's vendor-review guidance (Guidance on the Use of Artificial Intelligence in Libraries, 2026). The answers belong in the registry entry, not in a staff member's memory.
+
 - [ ] Privacy policy reviewed
 - [ ] Terms of service reviewed
+- [ ] AI features enabled by default identified
+- [ ] Library can disable AI features, or the limitation is documented
+- [ ] What data the system collects is documented
+- [ ] Whether prompts, searches, and staff inputs are logged is documented
+- [ ] Whether library data is used for model training is documented
+- [ ] Where data is stored, and what subprocessors handle it, is documented
 - [ ] Data retention and deletion terms understood
+- [ ] Audit and exit rights understood: what the library can inspect, and what happens to data at termination
 - [ ] Complies with state library-records confidentiality law
 - [ ] Cost and renewal terms understood
 
@@ -76,6 +86,6 @@ Transfer this result to the AI tool registry as a new or updated entry.
 
 ---
 
-*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.1.0 draft, 2026.*
+*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0 draft, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*

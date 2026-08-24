@@ -96,7 +96,7 @@ The following uses carry elevated risk and require prior approval from the Board
 - **Patron data in closed AI systems:** Any use of personally identifiable patron data in a closed AI system (for example, analyzing circulation patterns or generating targeted communications) requires approval and a review of the tool's data handling and privacy practices.
 - **New AI features in library systems:** When the ILS, discovery layer, public catalog, website, or a subscription database introduces new AI features that process patron data or shape search results, the library should review and approve those features before they are activated. This is the trigger libraries most often miss, because vendors add AI to platforms already in use.
 - **AI-assisted content published in the library's name:** Any AI-assisted content published externally as the library's official voice, including press statements, grant applications, or formal communications, requires review by the director or designee.
-- **AI in collection development:** The use of AI tools to select, weed, or rank materials for the collection requires review to protect against bias and against the quiet narrowing of access.
+- **AI in collection development:** The use of AI tools to select, weed, or rank materials for the collection requires review to protect against bias and against the quiet narrowing of access. The same review covers AI-generated and AI-assisted materials entering the collection — books, articles, metadata, database content — evaluating quality, disclosure, creator labor, and research integrity before acquisition. Declining to acquire primarily AI-generated materials is a legitimate exercise of professional judgment.
 - **New AI tools or subscriptions:** Any purchase of, subscription to, or new account for an AI tool using library funds or for library purposes should be reported to and approved by the director or designated committee, and recorded in the library's AI tool registry.
 
 ## VIII. Data Stewardship
@@ -204,6 +204,6 @@ The following is provided for general reference. AI tools and their data practic
 
 ---
 
-*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.1.0 draft, 2026.*
+*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0 draft, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*
