@@ -1,5 +1,7 @@
 # AI Governance for Public Libraries
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22330685.svg)](https://doi.org/10.5281/zenodo.22330685)
+
 A practical, values-grounded AI governance kit for public libraries, free to use and adapt under CC BY 4.0.
 
 *Version 0.2.0 — the version cited in the companion article, currently under peer review.*
@@ -61,6 +63,12 @@ This kit is licensed under [Creative Commons Attribution 4.0 International (CC B
 **Attribution:** Jose Ruiz-Vazquez | [https://controlledvocabulary.substack.com](https://controlledvocabulary.substack.com)
 
 This is an independent resource. It is not an official publication of the American Library Association, Core, or any library system.
+
+**How to cite:**
+
+> Ruiz-Vazquez, J. 2026. *AI governance for public libraries.* Version 0.2.0, Zenodo. doi: [10.5281/zenodo.22330686](https://doi.org/10.5281/zenodo.22330686).
+
+The DOI above cites the fixed v0.2.0 release referenced in the companion article; [10.5281/zenodo.22330685](https://doi.org/10.5281/zenodo.22330685) always resolves to the latest version.
 
 ---
 
