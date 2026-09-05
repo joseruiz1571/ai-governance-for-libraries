@@ -86,6 +86,6 @@ Transfer this result to the AI tool registry as a new or updated entry.
 
 ---
 
-*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0 draft, 2026.*
+*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*

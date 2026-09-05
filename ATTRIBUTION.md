@@ -7,7 +7,7 @@
 The kit ships **neutral and openly licensed (CC BY 4.0)**, not Field 83-branded, at least to start.
 
 - **Current attribution:** Jose Ruiz-Vazquez. The materials are ported from a congregations kit that is Jose's work; provenance for that kit is documented in the companion repo.
-- **Co-credit, pending Witt's yes:** if Witt Salley agrees to co-author the LL&M article and co-brand the kit, his name is added to the materials. Proposed billing is reciprocal: Witt first on the article, Jose first on the handouts. Do not add Witt's name to the footers until he has agreed; crediting someone who has not contributed or consented is the kind of provenance smell this practice exists to avoid.
+- **Co-credit, agreed (2026-08):** Witt Salley co-authors the article (now "AI Stewardship in Public Libraries: A Proposed Governance Model," under review at *Public Library Quarterly*) and has agreed to co-credit on the PLQ-aligned toolkit release, with Jose preserved as original creator. Billing is reciprocal: Witt first on the article, Jose first on the handouts. Footer language updates land with the post-submission release (v0.3.0); v0.2.0 remains Jose-only, matching the article's citation (Ruiz-Vazquez 2026a).
 - **Field 83, deferred:** the Field 83 imprint is held in reserve. It goes on only if the partnership proves out and a happy collaboration is in place. CC BY preserves the option indefinitely, so there is no cost to waiting.
 
 ## Why neutral now
@@ -20,6 +20,6 @@ Jose floated standing up a small neutral website to point people to (2026-06-15)
 
 ## Footer used across the kit
 
-> *Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0 draft, 2026.*
+> *Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0, 2026.*
 >
 > *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*

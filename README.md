@@ -2,7 +2,7 @@
 
 A practical, values-grounded AI governance kit for public libraries, free to use and adapt under CC BY 4.0.
 
-*Initial public draft, pending outside review.*
+*Version 0.2.0 — the version cited in the companion article, currently under peer review.*
 
 ---
 
@@ -14,7 +14,7 @@ This kit gives a library's board and director what they need to adopt an AI use 
 
 The kit is consistent with the American Library Association's Guidance on the Use of Artificial Intelligence in Libraries (adopted by the ALA Council, July 2026), including its sustainability and labor values. It remains an independent resource, not an ALA publication.
 
-It is the companion to the article "From AI Literacy to AI Stewardship: A Public Library Governance Model" (Library Leadership & Management).
+It is the companion to the article "AI Stewardship in Public Libraries: A Proposed Governance Model" by Witt Salley and José Ruiz-Vazquez (under review, *Public Library Quarterly*).
 
 ---
 

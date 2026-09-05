@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite it as below."
+title: "AI Governance for Public Libraries"
+authors:
+  - family-names: "Ruiz-Vazquez"
+    given-names: "José"
+    orcid: "https://orcid.org/0009-0004-9175-7101"
+version: 0.2.0
+date-released: 2026-09-05
+license: CC-BY-4.0
+repository-code: "https://github.com/joseruiz1571/ai-governance-for-libraries"
