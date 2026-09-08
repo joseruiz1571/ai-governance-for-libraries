@@ -4,7 +4,7 @@
 
 A practical, values-grounded AI governance kit for public libraries, free to use and adapt under CC BY 4.0.
 
-*Version 0.2.0 — the version cited in the companion article, currently under peer review.*
+*Version 0.2.0 — stable, citable release (see How to cite below).*
 
 ---
 
@@ -16,7 +16,7 @@ This kit gives a library's board and director what they need to adopt an AI use 
 
 The kit is consistent with the American Library Association's Guidance on the Use of Artificial Intelligence in Libraries (adopted by the ALA Council, July 2026), including its sustainability and labor values. It remains an independent resource, not an ALA publication.
 
-It is the companion to the article "AI Stewardship in Public Libraries: A Proposed Governance Model" by Witt Salley and José Ruiz-Vazquez (under review, *Public Library Quarterly*).
+It is the companion toolkit to a forthcoming article on AI stewardship in public libraries; publication details will be added here once available.
 
 ---
 
@@ -68,7 +68,7 @@ This is an independent resource. It is not an official publication of the Americ
 
 > Ruiz-Vazquez, J. 2026. *AI governance for public libraries.* Version 0.2.0, Zenodo. doi: [10.5281/zenodo.22330686](https://doi.org/10.5281/zenodo.22330686).
 
-The DOI above cites the fixed v0.2.0 release referenced in the companion article; [10.5281/zenodo.22330685](https://doi.org/10.5281/zenodo.22330685) always resolves to the latest version.
+The DOI above cites the fixed v0.2.0 release; [10.5281/zenodo.22330685](https://doi.org/10.5281/zenodo.22330685) always resolves to the latest version.
 
 ---
 
