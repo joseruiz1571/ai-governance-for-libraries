@@ -74,4 +74,4 @@ The DOI above cites the fixed v0.2.0 release; [10.5281/zenodo.22330685](https://
 
 ## About
 
-Jose Ruiz-Vazquez is an AI governance and GRC engineering practitioner with twenty years in public libraries. He writes about the intersection of library science, institutional ethics, and AI governance at [Controlled Vocabulary](https://controlledvocabulary.substack.com).
+Jose Ruiz-Vazquez builds the evidence and assurance layer for AI agent governance. Twenty years in public libraries taught him governance is a cataloging problem. He writes [Controlled Vocabulary](https://controlledvocabulary.substack.com), library science pointed at AI governance.
