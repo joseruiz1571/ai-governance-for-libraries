@@ -51,7 +51,7 @@ The minimum that makes this real is one maintained registry and one rule: no AI-
 
 This kit is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may use, adapt, and redistribute it freely with attribution.
 
-**Attribution:** Created by José Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley | [Governed Artifacts](https://governedartifacts.substack.com) & [Controlled Vocabulary](https://controlledvocabulary.substack.com)
+**Attribution:** Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley
 
 This is an independent resource. It is not an official publication of the American Library Association, Core, or any library system.
 
@@ -67,6 +67,6 @@ The DOI `10.5281/zenodo.22330686` cites the fixed `v0.2.0` release; [10.5281/zen
 
 ## About
 
-José Ruiz-Vazquez is a public library manager and AI governance and GRC engineering practitioner. He writes about institutional ethics, compliance engineering, and AI governance at [Governed Artifacts](https://governedartifacts.substack.com).
+Jose Ruiz-Vazquez is a public library manager and AI governance and GRC engineering practitioner. He writes about institutional ethics, compliance engineering, and AI governance at [Controlled Vocabulary](https://controlledvocabulary.substack.com).
 
 Witt Salley is Director of Digital Learning and Instructional Innovation at Carroll Community College and a former public librarian who writes about AI literacy and governance in libraries and higher education.
