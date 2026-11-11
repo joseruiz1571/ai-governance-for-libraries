@@ -5,7 +5,11 @@ authors:
   - family-names: "Ruiz-Vazquez"
     given-names: "José"
     orcid: "https://orcid.org/0009-0004-9175-7101"
-version: 0.2.0
-date-released: 2026-09-05
+  - family-names: "Salley"
+    given-names: "Witt"
+    orcid: "https://orcid.org/0009-0006-7850-2221"
+version: 0.3.0
+doi: 10.5281/zenodo.22330685
+date-released: 2026-11-10
 license: CC-BY-4.0
 repository-code: "https://github.com/joseruiz1571/ai-governance-for-libraries"

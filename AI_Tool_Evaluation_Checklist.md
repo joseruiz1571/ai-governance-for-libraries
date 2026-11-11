@@ -1,91 +1,124 @@
-# AI Tool Evaluation Checklist
+# AI Use & Tool Evaluation Checklist
 
-## For evaluating any AI tool before the library approves it
+## For evaluating an AI-enabled use before the library authorizes it
 
-Use this before a new AI tool is approved for library use, and again when a vendor adds an AI feature to a platform you already run. It feeds the AI tool registry: the answers here become the registry entry. Keep it short. The goal is a defensible yes or no, not a research project.
+Use this checklist whenever the library selects, configures, recommends, or materially relies on an AI or automated decision-support function—including when a vendor adds or modifies an AI feature inside a platform you already run. **Material reliance** means that an output meaningfully shapes staff action, public content, patron access, ranking, resource allocation, or another decision, regardless of the vendor's marketing label.
 
-A completed checklist is the provenance of a registry entry. File it.
+Beginning a review grants no permission to activate or use the feature. A completed checklist supplies the provenance and evidence for an entry in [`AI_Tool_Registry_Template.md`](AI_Tool_Registry_Template.md).
 
----
+## 1. Scope, purpose, and assigned functions
 
-## 1. What is it and who wants it
+- **AI-enabled use (authorized name & context):** _______
+- **Also appears as / embedded location:** _______
+- **Entry type:** [ ] Individual use record  [ ] Grouped record for comparable low-risk internal uses
+- **Proposed service purpose:** _______
+- **Non-AI or existing-service alternatives considered (e.g., improvements to existing search or staff support):** _______
+- **Affected groups (patrons, staff, communities):** _______
+- **Assigned authority functions** *(one person may hold several functions; identify the actual local, board, parent-agency, or consortial decision route)*:
+  - **Service owner:** _______
+  - **Reviewer(s):** _______
+  - **Approving authority:** _______
+  - **Registry maintainer & records custodian:** _______
+  - **Authorized risk acceptor (if a time-limited exception is considered):** _______
+- **Agreed workload allocation for this review (preparation, participation, testing, follow-up):** _______
 
-- **Tool name (authorized form):** _______
-- **Also appears as / where it shows up:** _______
-- **Requested by:** _______ (name a person)
-- **Use case in service terms:** _______
-- **What problem does it solve that a non-AI tool does not?** _______
+## 2. Community and staff participation
 
-## 2. What data does it touch
+Participation is integral to stewardship, with its form and depth proportionate to the consequences of the decision. Staff consultation and community participation provide complementary knowledge and do not substitute for one another.
 
-- [ ] No patron data, internal use only
-- [ ] Patron data, de-identified or aggregate
-- [ ] Personally identifiable patron data
-- [ ] Confidential patron records (reading, search, reference, borrowing history)
+- **Participation basis & proportionality:**
+  - [ ] **Consequential or public-facing use:** Direct community and staff input informs problem definition, alternatives, and evaluation criteria before product or feature activation.
+  - [ ] **Routine low-risk internal use:** Relies on documented prior engagement and standing policy (identify the policy and prior engagement: _______).
+  - [ ] **Gap in prior community input:** No community input informed the applicable policy. *(Record this gap explicitly rather than treating participation as inherited: _______).*
+- **Questions open to participant influence:** _______
+- **Authority arrangement for evaluation criteria:**
+  - **Criteria requiring joint agreement (changes require renewed agreement through the specified process):** _______
+  - **Advisory input (departures require a recorded explanation):** _______
+- **Accessibility, language, and outreach provisions (reaching beyond frequent borrowers and enthusiastic adopters):** _______
+- **Recorded contributions & changes:** How did community and staff knowledge change the proposed purpose, alternatives, or success measures (for example, replacing raw usage/hold counts with task accuracy, preserved known-item access, and user correction)? _______
+- **Disagreements and missing perspectives that limit the decision:** _______
+
+## 3. Data handling and review depth
+
+Check all data categories touched by this specific use:
+
+- [ ] No patron data; nonconfidential internal staff use only
+- [ ] De-identified or aggregate library data
+- [ ] Patron search queries, conversational prompts, or reference interactions
+- [ ] Personally identifiable patron or staff data (PII)
+- [ ] Confidential patron records (borrowing history, reading records, account activity)
 - [ ] Minors' data
 
-If any box below "No patron data" is checked, this tool requires the full impact review in Section 4 before approval.
+**Review depth trigger:**
+- [ ] **Core record only:** Nonconfidential internal use with no patron data, no public outputs, and no consequential effect on access or staff work.
+- [ ] **Expanded impact review required:** Triggered if the use processes sensitive/patron data, produces public outputs, changes collection/catalog access or staff work, or shapes a consequential decision. Complete Sections 4–7 in full.
 
-## 3. Open or closed
+## 4. Vendor data terms and response deadline
 
-- [ ] Closed: vendor states inputs are not used to train the model and are isolated from other customers. Cite where they say so: _______
-- [ ] Open: inputs may be used for training, or the vendor does not say. Open tools may not be used with any patron data.
-- [ ] Embedded in already-approved software, no new data exposure
-- [ ] Unknown. Do not approve for patron data until resolved.
+- **Local deadline set for vendor clarification:** _______
+- **Vendor response status at deadline:** [ ] Full response  [ ] Partial response  [ ] No response  [ ] Not applicable
+  *(Note: Vendor silence or nonresponse remains unresolved evidence and never expands permission.)*
+- **Model training & isolation:**
+  - [ ] **Closed / isolated:** Contract or binding terms verify that inputs are not used to train models and are isolated from other customers (cite document and section: _______).
+  - [ ] **Open / unverified:** Inputs may be used for training, subprocessors are undisclosed, or terms govern only test environments while live patron query terms remain unresolved. *(Do not authorize patron data or public activation.)*
+- **Local configuration controls:** Can technology staff isolate the feature for staff-only testing with invented queries, disable personalization/account linking, and turn off unapproved vendor updates? _______
 
-## 4. Impact review (the four questions)
+## 5. Impact review (the four managerial questions)
 
-Required for any patron-facing or data-touching tool. Answer each in a sentence or two.
+Answer each question with the evidence examined, unanswered questions, and **the specific activity prevented by any material uncertainty**. Good Accuracy cannot compensate for unacceptable Enforceability.
 
-- **Accuracy.** Does it do what the vendor claims, and who verified it (not the vendor)? _______
-- **Autonomy.** Does it decide or only recommend? Is a person in the loop before its output reaches a patron? _______
-- **Recourse.** When it is wrong, can a patron or staff member learn why it decided as it did, contest it, and get it corrected? Through what path? _______
-- **Enforceability.** Can the library hold the vendor to the stated terms? Is the data handling in the contract, or only in the marketing? What happens to patron data if the vendor is acquired or the service ends? _______
+- **Accuracy.** How does the feature perform on agreed library tasks compared with existing tools? Which holdings, languages, or interpretations does it miss?
+  - *Evidence & limits:* _______
+  - *Activity prevented by current uncertainty:* _______
+- **Autonomy.** What judgment is delegated to the system (query interpretation, ranking, summarizing, filtering), what human control remains, and are unreviewed functions (such as personalized ordering or automated weeding) excluded?
+  - *Evidence & limits:* _______
+  - *Activity prevented by current uncertainty:* _______
+- **Recourse.** When the system misinterprets a request or produces an error, how can a patron or staff member redirect it, report the concern without exposing unnecessary reading history, and obtain service through a non-AI alternative?
+  - *Correction & alternative service route:* _______
+  - *Stop / pause trigger:* _______
+- **Enforceability.** Are data terms, change notices, and configuration controls contractually enforceable, and does the library have a feasible stop or exit route?
+  - *Evidence & limits:* _______
+  - *If an essential or imposed platform cannot be withdrawn immediately, specify any time-limited exception controls, named risk acceptor, expiration, and exit route:* _______
 
-## 5. Intellectual freedom check
+## 6. Intellectual freedom and stewardship costs
 
-- [ ] This tool does not filter, rank, recommend, or flag content for patrons
-- [ ] It does shape what patrons see. If so: does it narrow access, and can patrons still reach the full collection and a human? _______
+- **Intellectual freedom check:**
+  - [ ] Does not filter, rank, recommend, or flag collection content for patrons.
+  - [ ] Shapes what patrons encounter. Explain how alternative catalog/collection access and human mediation are preserved, and confirm that majority preference cannot restrict lawful access: _______
+- **Environmental footprint:** Has the vendor disclosed energy, water, or carbon metrics, or would a simpler non-AI / task-specific tool suffice? _______
+- **Internal labor & workload:** Whose workflow changes, how were staff consulted, and how does actual review/support effort compare with the agreed workload allocation? *(Efficiency gains support service quality and working conditions, never staff reduction.)* _______
+- **Supply-chain labor:** Has the vendor documented labor standards for data labeling and moderation? _______
+- **Accessibility & language support:** Does the interface meet accessibility standards and support users across languages and literacy levels? _______
 
-## 6. Stewardship costs
+## 7. Authorized disposition and review state
 
-Costs that never appear on the invoice. A sentence each is enough. "Unknown" is an answer, and a reason to ask the vendor.
+Keep **authorized disposition** (what is permitted now) separate from **review state** (what evaluation work is happening).
 
-- **Environmental.** Has the vendor disclosed the energy, water, or carbon footprint of this tool? Would a smaller or task-specific tool do the same job? For hardware purchases: expected lifespan, upgrade cycle, and what happens to the equipment when it is obsolete. _______
-- **Labor, inside the library.** Whose work does this tool change, and were they consulted? Efficiency gains go to improving service and working conditions; they are not grounds for reducing staff. _______
-- **Labor, in the supply chain.** Can the vendor document the labor conditions behind the tool, including data-labeling and content-moderation work? A vendor that cannot say is telling you something. _______
-- **Bias and accessibility.** Has the tool itself been evaluated for bias in its data, algorithms, and outcomes — not just its outputs read critically — and does it meet recognized accessibility standards and support users across languages and literacy levels? _______
+**Authorized disposition:**
+- [ ] **Authorized within defined scope and conditions:** _______
+- [ ] **Limited internal exercise authorized; public activation deferred:** *(Specify isolated test configuration, invented queries, and session/workload cap: _______)*
+- [ ] **Time-limited exception with controls (essential/imposed platform):** *(Requires named risk acceptor, compensating controls, expiration date, and escalation/exit route: _______)*
+- [ ] **Deferred** (essential evidence or safe test configuration unavailable; specify what is blocked: _______)
+- [ ] **Refused / Declined**
+- [ ] **Retired / Discontinued**
 
-## 7. Vendor and contract
+**Separate review state:**
+- [ ] `Review required`
+- [ ] `Underway` *(Grants no permission beyond the explicit disposition above; specify pending evidence: _______)*
+- [ ] `Complete` *(Note: A completed internal test does not authorize a public pilot without a new decision.)*
 
-The privacy items follow ALA's vendor-review guidance (Guidance on the Use of Artificial Intelligence in Libraries, 2026). The answers belong in the registry entry, not in a staff member's memory.
+**Conditions, stop rules, and next review point:**
+- **Permitted scope & explicit exclusions:** _______
+- **Immediate stop / escalation triggers (e.g., vendor update outside scope, unapproved data processing):** _______
+- **Actual staff effort vs. agreed workload allocation:** _______
+- **Next review date or decision meeting & operational consequence at that point:** _______
 
-- [ ] Privacy policy reviewed
-- [ ] Terms of service reviewed
-- [ ] AI features enabled by default identified
-- [ ] Library can disable AI features, or the limitation is documented
-- [ ] What data the system collects is documented
-- [ ] Whether prompts, searches, and staff inputs are logged is documented
-- [ ] Whether library data is used for model training is documented
-- [ ] Where data is stored, and what subprocessors handle it, is documented
-- [ ] Data retention and deletion terms understood
-- [ ] Audit and exit rights understood: what the library can inspect, and what happens to data at termination
-- [ ] Complies with state library-records confidentiality law
-- [ ] Cost and renewal terms understood
+**Service owner:** _______  
+**Reviewer(s):** _______  
+**Approving authority:** _______  
+**Date:** _______  
+**Registry entry created / updated:** [ ] Yes
 
-## 8. Decision
+*Created by José Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
 
-- **Risk tier:** [ ] Low (internal, no patron data, light guidance) [ ] Full review (patron-facing or data-touching)
-- **Decision:** [ ] Approved [ ] Approved with conditions [ ] Declined [ ] Pilot only
-- **Conditions of use:** _______
-- **Service owner (accountable person):** _______
-- **Review date:** _______
-- **Decided by:** _______ on _______
-
-Transfer this result to the AI tool registry as a new or updated entry.
-
----
-
-*Prepared by Jose Ruiz-Vazquez. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.2.0, 2026.*
-
-*An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*
+*Consistent with the American Library Association's Guidance on the Use of Artificial Intelligence in Libraries (2026). An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
