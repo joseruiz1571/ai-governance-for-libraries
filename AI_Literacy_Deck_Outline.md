@@ -30,4 +30,4 @@
 
 **Slide 13 — Discussion and participation.** Which service problems actually need AI, and where would better existing search or staff support work better? What criteria should an AI feature have to meet before it reaches patrons? Point to the policy, the one-pager, and the registry.
 
-*Created by José Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.0, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.0, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
