@@ -11,7 +11,7 @@
 - Researching general background context for programs and displays
 - Proofreading and grammar-checking nonconfidential written communications
 - Creating administrative templates with aggregate or de-identified data
-- Using specifically authorized low-risk internal features in approved software within their recorded scope and conditions
+- Using specifically authorized low-risk embedded features in approved software within their recorded scope and conditions
 
 ### You MUST get an authorized decision first before
 
@@ -43,4 +43,4 @@
 - **AI output is a starting point, not an authority.** Verify accuracy and check what perspectives or holdings may be missed.
 - **The key questions are always:** What data am I putting into this use, whose access does it shape, and what is its current authorized disposition in the registry?
 
-*Created by José Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.0, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.0, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*

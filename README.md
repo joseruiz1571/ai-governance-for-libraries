@@ -14,7 +14,7 @@ This kit gives a library's board, director, and staff what they need to adopt an
 
 The kit is consistent with the [American Library Association's Guidance on the Use of Artificial Intelligence in Libraries](https://www.ala.org/tools/standards-and-guidelines/guidance-use-artificial-intelligence-libraries) (adopted by the ALA Council, July 2026), including its sustainability, labor, intellectual freedom, and privacy commitments, as well as the [NIST AI Risk Management Framework (AI RMF 1.0)](https://doi.org/10.6028/NIST.AI.100-1) and the [GAO AI Accountability Framework](https://www.gao.gov/products/gao-21-519sp). It remains an independent resource, not an ALA publication.
 
-It is the companion toolkit to the article *"AI Stewardship in Public Libraries: A Proposed Governance Model"* by Witt Salley and José Ruiz-Vazquez.
+It is the companion toolkit to the article *"AI Stewardship in Public Libraries: A Proposed Governance Model"* by Witt Salley and Jose Ruiz-Vazquez.
 
 ## What Is In the Kit
 
@@ -67,6 +67,6 @@ The DOI `10.5281/zenodo.22330686` cites the fixed `v0.2.0` release; [10.5281/zen
 
 ## About
 
-Jose Ruiz-Vazquez is a public library manager and AI governance and GRC engineering practitioner. He writes about institutional ethics, compliance engineering, and AI governance at [Controlled Vocabulary](https://controlledvocabulary.substack.com).
+Jose Ruiz-Vazquez is a Library Assistant Manager at Austin Public Library's Milwood Branch and writes about the intersection of library science, institutional ethics, and AI governance at [Controlled Vocabulary](https://controlledvocabulary.substack.com).
 
 Witt Salley is Director of Digital Learning and Instructional Innovation at Carroll Community College and a former public librarian who writes about AI literacy and governance in libraries and higher education.

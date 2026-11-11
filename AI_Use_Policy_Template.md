@@ -142,6 +142,6 @@ The following is provided for general reference. AI tools and vendor data practi
 **Vendor-Added AI in Library Systems (Requires Individual Expanded Review):**
 - Conversational catalog discovery, AI readers' advisory, search summarization, or automated ranking added to discovery layers, ILS platforms, or databases. Treat these as consequential Section IV.B uses requiring individual review, participation, and explicit disposition—never as automatic conveniences.
 
-*Created by José Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*
