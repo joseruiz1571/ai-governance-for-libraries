@@ -27,12 +27,12 @@ All selection, evaluation, authorization, and reconsideration of AI-enabled uses
 3. **Human Responsibility and Delegated Judgment.** AI outputs are draft or decision-support assistance, not autonomous authorities. Staff remain accountable for all published content, purchasing decisions, and service outcomes.
 4. **Proportionate Community and Staff Participation.** Community knowledge and staff experience inform problem definition, non-AI alternatives, evaluation criteria, and reconsideration in forms proportionate to the consequences of the decision.
 5. **Transparency and Recourse.** The library will explain its AI decisions, limitations, and uncertainties openly and maintain clear routes for patrons and staff to correct errors, request human assistance, or reopen review.
-6. **Proportional Governance and Environmental/Labor Stewardship.** Governance processes scale to local capacity while accounting for staff workload, supply-chain labor standards, and environmental footprints.
+6. **Proportional Governance and Environmental/Labor Stewardship.** Governance processes scale to local capacity while accounting for staff workload, supply chain labor standards, and environmental footprints.
 
 ## IV. Permitted, Restricted, and Prohibited Uses
 
 ### A. Permitted Routine Internal Uses (Grouped Core Record)
-Staff may use approved or closed AI tools for comparable low-risk internal uses covered by a grouped core record in the registry when purpose, data, owner, and conditions are the same:
+Staff may undertake comparable low-risk internal uses only within the scope and conditions of an **authorized disposition** recorded in the registry. These uses may share a **grouped core record** when their purpose, data, owner, conditions, and review arrangements are the same. Examples include:
 - Drafting, editing, or brainstorming administrative text, grant applications, or promotional copy that contains **no** patron data or confidential personnel information.
 - Creating administrative templates using aggregate or de-identified data.
 - Using specifically reviewed and authorized low-risk embedded features (such as standard spell-check or grammar assistance) within their approved scope.
@@ -56,9 +56,9 @@ The following are strictly prohibited:
 - Using AI to create misleading, deceptive, or fabricated content.
 
 ## V. Patron Privacy and Confidentiality
-1. **Zero Open-AI Sharing:** Patron data, search history, borrowing records, and reference queries shall never be entered into open AI tools.
+1. **No Patron Data in Open AI Tools:** Patron data, search history, borrowing records, and reference queries shall never be entered into open AI tools.
 2. **Vendor Assessment and Silence Rule:** Before enabling vendor-added AI that interacts with patron queries or data, the library must verify enforceable terms governing retention, model training, subprocessors, and local controls. Vendor nonresponse by a local deadline remains unresolved evidence and never expands permission.
-3. **De-identification:** Aggregate, anonymized usage statistics may be processed using closed AI tools only when individual identity cannot be re-established.
+3. **De-identification:** Aggregate, anonymized usage statistics may be processed using closed AI tools only when individual identity cannot be reestablished.
 
 ## VI. Participation in Defining and Reconsidering Decisions
 1. **Complementary Knowledge:** Staff experience regarding service encounters and working conditions and community knowledge regarding local priorities and access needs are complementary; staff consultation does not substitute for community participation.
@@ -69,12 +69,12 @@ The following are strictly prohibited:
 ## VII. Governance, Authority Map, and Registry
 
 ### A. Authority Functions
-Rather than prescribing new job titles, the library assigns six stewardship functions (one person may hold several functions, and the record must identify where local, board, parent-agency, or consortial authority actually resides):
+Rather than prescribing new job titles, the library assigns six stewardship functions (one person may hold several functions, and the record must identify where local, board, parent agency, or consortial authority actually resides):
 - **Service Owner:** Oversees the specific AI-enabled use and routes concerns.
 - **Reviewer:** Evaluates technical, collection, privacy, and participation evidence across Accuracy, Autonomy, Recourse, and Enforceability.
 - **Approver:** Determines the authorized disposition within delegated powers.
 - **Registry Maintainer:** Updates the decision record and change log.
-- **Records Custodian:** Manages record access and retention under public-records rules.
+- **Records Custodian:** Manages record access and retention under public records rules.
 - **Authorized Risk Acceptor:** Approves any permitted time-limited exception within delegated authority.
 
 ### B. AI Tool & Use Registry
@@ -108,7 +108,10 @@ This Policy takes effect immediately upon adoption by the Board of Trustees and 
 
 ## APPENDIX A: STAFF ONE-PAGER ("AI USE AT A GLANCE")
 
-**You MAY use approved or closed AI tools under a grouped low-risk record for:**
+**You MAY undertake the following low-risk internal uses within the scope and conditions of an authorized disposition recorded in the registry:**
+
+Comparable uses may share a grouped core record when purpose, data, owner, conditions, and review arrangements are the same.
+
 - Drafting, editing, or brainstorming administrative text, grant applications, or promotional copy that contains **no** patron data or confidential personnel information.
 - Creating administrative templates using aggregate or de-identified data.
 - Using specifically authorized low-risk embedded features in approved software within their recorded scope.

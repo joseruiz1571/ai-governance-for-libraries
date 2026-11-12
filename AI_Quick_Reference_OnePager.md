@@ -4,12 +4,12 @@
 
 *Print this. Post it at the service desk and in the staff workroom. Remember: beginning a review grants no permission, and approval of a product for one use does not authorize every feature that product offers.*
 
-### You MAY use AI tools freely for (under a grouped low-risk record)
+### You MAY undertake these low-risk internal uses within their authorized scope and recorded conditions
 
 - Drafting and editing newsletters, social media posts, and routine announcements
 - Brainstorming program ideas, instructional outlines, and booklist themes
 - Researching general background context for programs and displays
-- Proofreading and grammar-checking nonconfidential written communications
+- Proofreading and checking the grammar of nonconfidential written communications
 - Creating administrative templates with aggregate or de-identified data
 - Using specifically authorized low-risk embedded features in approved software within their recorded scope and conditions
 

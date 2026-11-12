@@ -14,7 +14,7 @@ Beginning a review grants no permission to activate or use the feature. A comple
 - **Proposed service purpose:** _______
 - **Non-AI or existing-service alternatives considered (e.g., improvements to existing search or staff support):** _______
 - **Affected groups (patrons, staff, communities):** _______
-- **Assigned authority functions** *(one person may hold several functions; identify the actual local, board, parent-agency, or consortial decision route)*:
+- **Assigned authority functions** *(one person may hold several functions; identify the actual local, board, parent agency, or consortial decision route)*:
   - **Service owner:** _______
   - **Reviewer(s):** _______
   - **Approving authority:** _______
@@ -87,7 +87,7 @@ Answer each question with the evidence examined, unanswered questions, and **the
   - [ ] Shapes what patrons encounter. Explain how alternative catalog/collection access and human mediation are preserved, and confirm that majority preference cannot restrict lawful access: _______
 - **Environmental footprint:** Has the vendor disclosed energy, water, or carbon metrics, or would a simpler non-AI / task-specific tool suffice? _______
 - **Internal labor & workload:** Whose workflow changes, how were staff consulted, and how does actual review/support effort compare with the agreed workload allocation? *(Efficiency gains support service quality and working conditions, never staff reduction.)* _______
-- **Supply-chain labor:** Has the vendor documented labor standards for data labeling and moderation? _______
+- **Supply chain labor:** Has the vendor documented labor standards for data labeling and moderation? _______
 - **Accessibility & language support:** Does the interface meet accessibility standards and support users across languages and literacy levels? _______
 
 ## 7. Authorized disposition and review state
@@ -96,9 +96,9 @@ Keep **authorized disposition** (what is permitted now) separate from **review s
 
 **Authorized disposition:**
 - [ ] **Authorized within defined scope and conditions:** _______
-- [ ] **Limited internal exercise authorized; public activation deferred:** *(Specify isolated test configuration, invented queries, and session/workload cap: _______)*
+- [ ] **Limited internal exercise authorized; public activation deferred:** *(Specify acceptable test terms, isolated test configuration, invented queries, and session/workload cap: _______)*
 - [ ] **Time-limited exception with controls (essential/imposed platform):** *(Requires named risk acceptor, compensating controls, expiration date, and escalation/exit route: _______)*
-- [ ] **Deferred** (essential evidence or safe test configuration unavailable; specify what is blocked: _______)
+- [ ] **Deferred** (essential evidence, acceptable test terms, or safe test configuration unavailable; specify what is blocked: _______)
 - [ ] **Refused / Declined**
 - [ ] **Retired / Discontinued**
 
