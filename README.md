@@ -4,7 +4,7 @@
 
 A practical, values-grounded AI stewardship and governance kit for public libraries, free to use and adapt under CC BY 4.0.
 
-*Version 0.3.0 – aligned with the revised AI stewardship governance model (see How to cite below).*
+*Version 0.3.1 – aligned with the revised AI stewardship governance model (see How to cite below).*
 
 ## What This Is
 
@@ -57,7 +57,7 @@ This is an independent resource. It is not an official publication of the Americ
 
 **How to cite:**
 
-> Ruiz-Vazquez, J., and W. Salley. 2026. *AI Governance for Public Libraries.* Version 0.3.0, GitHub/Zenodo. https://doi.org/10.5281/zenodo.22330685.
+> Ruiz-Vazquez, J., and W. Salley. 2026. *AI Governance for Public Libraries.* Version 0.3.1, GitHub/Zenodo. https://doi.org/10.5281/zenodo.22330685.
 
 The archived `v0.2.0` release remains available as a previous version and may be cited as follows:
 

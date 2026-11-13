@@ -43,4 +43,4 @@
 - **AI output is a starting point, not an authority.** Verify accuracy and check what perspectives or holdings may be missed.
 - **The key questions are always:** What data am I putting into this use, whose access does it shape, and what is its current authorized disposition in the registry?
 
-*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.0, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.1, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*

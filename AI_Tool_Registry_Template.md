@@ -48,7 +48,7 @@ Complete one record for each selected use or group of comparable low-risk intern
 | **Participation basis** | Affected groups; questions open to community and staff influence; criteria requiring joint agreement vs. advisory input and the process for changing them; outreach, accessibility, and language provisions; or relevant prior engagement/standing policy. If no community input informed the applicable policy, record the gap explicitly rather than describing participation as inherited. |
 | **Participation & influence** | Contributions from community members and staff (distinguished by source); how they changed the problem definition, alternatives, evaluation criteria, or conditions; disagreements and missing perspectives that limit the decision; reasoned responses to advice not adopted; and the route for reconsideration. |
 | **Evidence & uncertainty** | Sources and local configuration examined; supported conclusions across Accuracy, Autonomy, Recourse, and Enforceability; unanswered questions; and **the specific activity prevented by each material uncertainty**. |
-| **Vendor response** | Local response deadline and whether vendor response was `Full`, `Partial`, `Absent`, or `Inapplicable`. Vendor nonresponse remains unresolved evidence and never expands permission. |
+| **Vendor response** | Local response deadline and whether vendor response was `Full`, `Partial`, `No response`, or `Not applicable`. Vendor nonresponse remains unresolved evidence and never expands permission. |
 | **Workload** | Estimated and actual staff effort (preparation, review, participation, accessibility, communication, and follow-up) compared against the agreed workload allocation. |
 | **Communication, stop & recourse** | Staff instructions; accessible public explanation; who receives a concern; what events (such as unapproved vendor processing or configuration drift) immediately stop or pause the use; who can correct or escalate; and the alternative non-AI service route for patrons. |
 | **Next work & review point** | Responsible actor, pending tasks, review date or trigger event, and the operational consequence of reaching that point (whether operation pauses or continues under a separately authorized temporary arrangement). |
@@ -90,6 +90,6 @@ To verify that a completed record works as an authority record rather than an un
 7. Can the reader identify correction, escalation, alternative service, and exit routes?
 8. Can the reader identify the next review point, its operational consequence, and relevant change history?
 
-*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.1, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*

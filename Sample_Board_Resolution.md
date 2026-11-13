@@ -6,7 +6,7 @@
 
 ### Motion
 
-> **Moved**, that the Board of Trustees of [Library Name] adopt the Artificial Intelligence Use Policy, Version 0.3.0, dated [Date], as presented; and
+> **Moved**, that the Board of Trustees of [Library Name] adopt the Artificial Intelligence Use Policy, Version 0.3.1, dated [Date], as presented; and
 >
 > that the [director / designated stewardship lead or working group] be directed to carry out a staged first implementation cycle within agreed staff workload allocations to:
 >
@@ -25,4 +25,4 @@ Rather than imposing an arbitrary calendar deadline, the resolution directs a fo
 
 The Policy is adapted from an openly licensed ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) toolkit and is consistent with the [American Library Association's Guidance on the Use of Artificial Intelligence in Libraries](https://www.ala.org/tools/standards-and-guidelines/guidance-use-artificial-intelligence-libraries) (2026). It is an independent resource and not an official publication of any library association.
 
-*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.0, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. CC BY 4.0. Version 0.3.1, 2026. An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*

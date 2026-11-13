@@ -119,6 +119,6 @@ Keep **authorized disposition** (what is permitted now) separate from **review s
 **Date:** _______  
 **Registry entry created / updated:** [ ] Yes
 
-*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.1, 2026.*
 
 *Consistent with the American Library Association's Guidance on the Use of Artificial Intelligence in Libraries (2026). An independent resource for public libraries; not an official publication of the American Library Association, Core, or any library system.*

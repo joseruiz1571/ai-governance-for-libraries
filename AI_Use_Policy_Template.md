@@ -1,7 +1,7 @@
 # ARTIFICIAL INTELLIGENCE USE POLICY
-**[Library Name]**
-*Adopted by the Board of Trustees on [Date]*
-*Version 0.3.0, 2026*
+**[Library Name]**  
+*Adopted by the Board of Trustees on [Date]*  
+*Version 0.3.1, 2026*
 
 ## I. Introduction and Purpose
 [Library Name] holds the trust of the public it serves and the funds the public provides. As artificial intelligence tools become increasingly available across staff workflows, public services, and vendor platforms, the library has a continuing stewardship responsibility to evaluate, authorize, oversee, and reconsider AI-enabled uses transparently and in ways that protect patron privacy, intellectual freedom, and equitable access, consistent with the [American Library Association's Guidance on the Use of Artificial Intelligence in Libraries](https://www.ala.org/tools/standards-and-guidelines/guidance-use-artificial-intelligence-libraries).
@@ -145,6 +145,6 @@ The following is provided for general reference. AI tools and vendor data practi
 **Vendor-Added AI in Library Systems (Requires Individual Expanded Review):**
 - Conversational catalog discovery, AI readers' advisory, search summarization, or automated ranking added to discovery layers, ILS platforms, or databases. Treat these as consequential Section IV.B uses requiring individual review, participation, and explicit disposition—never as automatic conveniences.
 
-*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.1, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*
