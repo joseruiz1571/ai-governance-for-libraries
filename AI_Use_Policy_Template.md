@@ -1,6 +1,6 @@
 # ARTIFICIAL INTELLIGENCE USE POLICY
-**[Library Name]**  
-*Adopted by the Board of Trustees on [Date]*  
+**[Library Name]**
+*Adopted by the Board of Trustees on [Date]*
 *Version 0.3.1, 2026*
 
 ## I. Introduction and Purpose
