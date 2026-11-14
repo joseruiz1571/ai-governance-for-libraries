@@ -90,6 +90,6 @@ To verify that a completed record works as an authority record rather than an un
 7. Can the reader identify correction, escalation, alternative service, and exit routes?
 8. Can the reader identify the next review point, its operational consequence, and relevant change history?
 
-*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.0, 2026.*
+*Created by Jose Ruiz-Vazquez; Version 0.3.0 prepared with Witt Salley. Licensed under CC BY 4.0: adapt freely for your library with attribution. Version 0.3.1, 2026.*
 
 *An independent resource for public libraries. Not an official publication of the American Library Association, Core, or any library system.*
